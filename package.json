@@ -1,0 +1,22 @@
+{
+  "name": "ajaxtestserver",
+  "version": "1.0.0",
+  "description": "로컬에서 Ajax 요청을 테스트해볼 수 있는 서버를 갖고 싶어서 하나 만들어 봄.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daanta-real/ajaxTestServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daanta-real/ajaxTestServer/issues"
+  },
+  "homepage": "https://github.com/daanta-real/ajaxTestServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
