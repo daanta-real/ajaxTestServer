@@ -2,7 +2,7 @@
 import express from 'express';
 const app = express();
 const port = 3575;
-1
+
 // 미들웨어 설정 (CORS 허용)
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
